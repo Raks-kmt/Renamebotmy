@@ -18,8 +18,8 @@ class Config(object):
     STRING_SESSION = os.environ.get("STRING_SESSION", "")
     
     # database config
-    DB_NAME = os.environ.get("DB_NAME","Digital_Rename_Bot")     
-    DB_URL = os.environ.get("DB_URL","mongodb+srv://rename:rename@cluster0.iera6d1.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+    DB_NAME = os.environ.get("DB_NAME","Blacklumidb")     
+    DB_URL = os.environ.get("DB_URL","mongodb+srv://prisarax:WxuKANYzL5CPyY7d@cluster0.jxlwo.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
  
     # other configs
     RKN_PIC = os.environ.get("RKN_PIC", "https://graph.org/file/7eaac8ad9a54cb36b8386.jpg")
