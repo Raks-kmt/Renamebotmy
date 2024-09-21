@@ -20,9 +20,9 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-Telegram Link : https://t.me/RknDeveloper 
-Repo Link : https://github.com/RknDeveloper/RknFileRenameBot
-License Link : https://github.com/RknDeveloper/Rkn-rename-bot-V3/blob/main/LICENSE
+Telegram Link : https://t.me/forcesub12 
+Repo Link : https://t.me/forcesub12
+License Link : https://t.me/forcesub12
 """
 __name__ = "Digital-Rename-Bot"
 __version__ = "3.0.3"
