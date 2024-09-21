@@ -27,8 +27,8 @@ License Link : https://github.com/RknDeveloper/Rkn-rename-bot-V3/blob/main/LICEN
 __name__ = "Digital-Rename-Bot"
 __version__ = "3.0.3"
 __license__ = " Apache License, Version 2.0"
-__copyright__ = "Copyright (C) 2022-present RknDeveloper <https://github.com/RknDeveloper>"
-__developer__ = "RknDeveloper <https://github.com/RknDeveloper>"
+__copyright__ = "Copyright (C) 2022-present BLACKLUMI<https://t.me/forcesub12>"
+__developer__ = "BLACKLUMI<https://t.me/forcesub12>"
 
 # main working files 
 # - bot.py
