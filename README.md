@@ -111,9 +111,10 @@ broadcast - Sᴇɴᴅ Mᴇssᴀɢᴇ Tᴏ Aʟʟ Usᴇʀs (Aᴅᴍɪɴ Oɴʟʏ)
 
 ## ❣️Thanks To
 
-- Thanks To TEAM-PYRO-BOTZ For His Awesome [PYRO-RENAME-BOT](https://github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT.git)
-- Thanks To [RknDeveloper](https://github.com/RknDeveloper) who have edited and modified this repo as now it is. (It's me 😂)
-- Thanks To [JayMahakal](https://github.com/JayMahakal98) who have edited and modified this repo as now it is.
+- Thanks To TEAM-PYRO-BOTZ For His Awesome [PYRO-RENAME-BOT]([https://github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT.git](https://t.me/forcesub12))
+- Thanks To [RknDeveloper](https://t.me/forcesub12) who have edited and modified this repo as now it is. (It's me 😂)
+- Thanks To [JayMahakal]([[https://github.com/JayMahakal98]
+- (https://t.me/forcesub12)](https://t.me/forcesub12)) who have edited and modified this repo as now it is.
 
 ## Last Updated
 - `10-06-2024 11:33:55 PM`
